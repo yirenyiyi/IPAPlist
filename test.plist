@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://simg01.gaodunwangxiao.com/uploadfiles/tmp/upload/202201/19/3d46e_20220119160007.ipa</string>
+                        <string>https://simg01.gaodunwangxiao.com/uploadfiles/tmp/upload/202201/19/05ef3_20220119165041.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,9 +33,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.gaodun.gaodun</string>
+                    <string>com.gaodun.gaodunTest</string>
                     <key>bundle-version</key>
-                    <string>9.8.7</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
