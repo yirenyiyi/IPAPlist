@@ -25,9 +25,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>BT.Avanker</string>
+<string>com.gaodun.gaodun</string>
 <key>bundle-version</key>
-<string>1.0</string>
+<string>9.8.7.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
